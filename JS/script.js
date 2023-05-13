@@ -521,7 +521,6 @@ let PRO = [
     }
 ];
 
-
 let GEO = [
     {
         S1: 'Where is capital city of Turkey?',
